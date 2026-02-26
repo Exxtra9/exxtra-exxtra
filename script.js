@@ -1,1 +1,0 @@
-// Your JavaScript content from api/public/public/script.js will go here.
